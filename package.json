@@ -1,0 +1,36 @@
+{
+  "name": "react-router-practice",
+  "version": "1.0.0",
+  "description": "A small app that uses react router to practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clausjs/React-Router-Practice.git"
+  },
+  "author": "Joseph Claus",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/clausjs/React-Router-Practice/issues"
+  },
+  "homepage": "https://github.com/clausjs/React-Router-Practice#readme",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-router": "^2.8.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-util": "^3.0.7",
+    "json-loader": "^0.5.4",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
